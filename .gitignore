@@ -4,6 +4,17 @@ node_modules/
 # Build output — upload dist/ to Hostinger manually, don't commit it
 dist/
 
+# ── Claude / AI tool artefacts ────────────────────────────────────────────────
+CLAUDE.md
+claude.md
+.claude/
+tasks/
+
+# ── Figma Make generated artefacts ───────────────────────────────────────────
+default_shadcn_theme.css   # Figma Make theme scaffold
+guidelines/                # Figma Make guidelines folder
+src/app/components/figma/  # Figma Make utility components (unused)
+
 # Local env files
 .env
 .env.local
