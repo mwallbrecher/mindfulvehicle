@@ -54,4 +54,7 @@ High-fidelity concept prototype developed and evaluated through user research an
 ## Author
 
 Moritz Wallbrecher
+
+##Disclaimer
+Claude Code was used to translate the static Figma components into react code. All features, idea, design system and content were mine and I contributed them either by coding or follow up prompts in Claude Code!
 ```
